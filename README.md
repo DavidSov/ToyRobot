@@ -74,7 +74,7 @@ Running the application
 -----------------------
 1. The executable file which can be run as a standard console application by typing this command at the folder where it resides ".\ToyRobotApp".
 2. Or it can be run using a command file containing a list of command. For example, if the command file is CommandFile.txt then it can be run by typing this command: ".\ToyRobot CommandFile.txt"
-3. CommandFile.txt should contains a list of commands like they are entered by the console.
+3. CommandFile.txt should contains a list of commands like they are entered via the console.
 4. Unit Testing can be done from within Visual Studio 2019 Test Explorer window.
 
 
